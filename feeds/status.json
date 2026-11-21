@@ -1,0 +1,125 @@
+{
+  "feeds": {
+    "anderson-koch-ford": {
+      "last_updated": "2026-11-21",
+      "rows": 292
+    },
+    "bachmans": {
+      "last_updated": "2026-11-21",
+      "rows": 1139
+    },
+    "bee-line": {
+      "last_updated": "2026-11-21",
+      "rows": 188
+    },
+    "borton-volvo": {
+      "last_updated": "2026-11-21",
+      "rows": 434
+    },
+    "candyland": {
+      "last_updated": "2026-11-21",
+      "rows": 405
+    },
+    "carlson-toyota": {
+      "last_updated": "2026-09-23",
+      "rows": 472
+    },
+    "dahl-cdjr-rhinelander": {
+      "last_updated": "2026-11-21",
+      "rows": 111
+    },
+    "dahl-cdjr-rochester": {
+      "last_updated": "2026-11-21",
+      "rows": 179
+    },
+    "dahl-cdjr-stevens-point": {
+      "last_updated": "2026-11-21",
+      "rows": 122
+    },
+    "dahl-chevrolet-winona": {
+      "last_updated": "2026-09-23",
+      "rows": 89
+    },
+    "dahl-gmc-winona": {
+      "last_updated": "2026-09-23",
+      "rows": 23
+    },
+    "dahl-honda-onalaska": {
+      "last_updated": "2026-11-21",
+      "rows": 120
+    },
+    "dahl-honda-sheboygan": {
+      "last_updated": "2026-11-21",
+      "rows": 146
+    },
+    "dahl-honda-stevens-point": {
+      "last_updated": "2026-11-21",
+      "rows": 111
+    },
+    "dahl-hyundai-lacrosse": {
+      "last_updated": "2026-11-21",
+      "rows": 218
+    },
+    "dahl-hyundai-rochester": {
+      "last_updated": "2026-11-21",
+      "rows": 358
+    },
+    "dahl-mazda": {
+      "last_updated": "2026-11-21",
+      "rows": 152
+    },
+    "dahl-subaru-lacrosse": {
+      "last_updated": "2026-11-21",
+      "rows": 224
+    },
+    "dahl-subaru-sheboygan": {
+      "last_updated": "2026-11-21",
+      "rows": 85
+    },
+    "dahl-toyota-sheboygan": {
+      "last_updated": "2026-11-21",
+      "rows": 120
+    },
+    "dahl-toyota-winona": {
+      "last_updated": "2026-11-21",
+      "rows": 132
+    },
+    "fury-ford-waconia": {
+      "last_updated": "2026-11-21",
+      "rows": 149
+    },
+    "fury-gmc-forest-lake": {
+      "last_updated": "2026-11-21",
+      "rows": 157
+    },
+    "fury-motors-south-st-paul": {
+      "last_updated": "2026-11-21",
+      "rows": 286
+    },
+    "fury-motors-stillwater": {
+      "last_updated": "2026-11-21",
+      "rows": 168
+    },
+    "mankato-motors": {
+      "last_updated": "2026-11-21",
+      "rows": 415
+    },
+    "olivia-chrysler": {
+      "last_updated": "2026-11-21",
+      "rows": 109
+    },
+    "park-chrysler-jeep": {
+      "last_updated": "2026-09-23",
+      "rows": 369
+    },
+    "st-cloud-toyota": {
+      "last_updated": "2026-11-21",
+      "rows": 324
+    },
+    "white-bear-lincoln": {
+      "last_updated": "2026-11-21",
+      "rows": 207
+    }
+  },
+  "generated": "2026-11-21"
+}
